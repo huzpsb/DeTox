@@ -21,6 +21,9 @@ This repository introduces a simple yet effective combination of filters for det
 And much more.  
 
 ### Sample
+Original Picture  
 ![Original Picture](./or.png)  
+Protected Picture  
 ![Protected Picture](./pr.png)  
+DeToxed Picture  
 ![DeToxed Picture](./done.png)  
