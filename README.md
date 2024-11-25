@@ -18,4 +18,9 @@ This repository introduces a simple yet effective combination of filters for det
 
 [Sanative](https://app.sanative.ai/shield)  
 [Glaze](https://glaze.cs.uchicago.edu/what-is-glaze.html)  
-And much more.
+And much more.  
+
+### Sample
+![Original Picture](./or.png)  
+![Protected Picture](./pr.png)  
+![DeToxed Picture](./done.png)  
