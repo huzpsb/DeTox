@@ -27,3 +27,10 @@ Protected Picture
 ![Protected Picture](./pr.png)  
 DeToxed Picture  
 ![DeToxed Picture](./done.png)  
+StableDiffusion can describe the DeToxed picture(done.png) properly.  
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/f716267c-7365-441e-9234-3dc2283b10a7">  
+ChatGPT can describe it properly.  
+<img width="848" alt="image" src="https://github.com/user-attachments/assets/ed7f02d7-c501-49fa-bf1d-bfe737684dfb">  
+We omit many similar tests. In short, almost all use cases do not misinterpret DeToxed images, either for description, imitation, recognition or training.  
+Even invited human testers said DeToxed images were better for viewing.  
+
