@@ -18,6 +18,7 @@ This repository introduces a simple yet effective combination of filters for det
 
 [Sanative](https://app.sanative.ai/shield)  
 [Glaze](https://glaze.cs.uchicago.edu/what-is-glaze.html)  
+[Night Shade](https://github.com/Shawn-Shan/nightshade-release)
 And much more.  
 
 ### Sample
