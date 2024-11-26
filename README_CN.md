@@ -14,8 +14,3 @@
 
 本项目介绍了一种简单而有效的滤波器组合，用于图像解毒。
 
-### 已知适用范围
-
-[Sanative](https://app.sanative.ai/shield)  
-[Glaze](https://glaze.cs.uchicago.edu/what-is-glaze.html)  
-以及更多。
