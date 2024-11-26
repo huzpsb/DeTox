@@ -25,7 +25,7 @@ And much more.
 ### Sample
 Original Picture  
 ![Original Picture](./or.png)  
-Protected Picture  
+Poisoned(Protected) Picture  
 ![Protected Picture](./pr.png)  
 DeToxed Picture  
 ![DeToxed Picture](./done.png)  
