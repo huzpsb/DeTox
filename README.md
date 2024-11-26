@@ -37,4 +37,5 @@ We omit many similar tests. In short, almost all use cases do not misinterpret D
 Even invited human testers said DeToxed images were better for viewing.  
 
 ### See Also
-[DeWm](https://github.com/huzpsb/DeWm/)
+[DeWm](https://github.com/huzpsb/DeWm/)  
+[Glaze and the Effectiveness](https://huggingface.co/blog/parsee-mizuhashi/glaze-and-anti-ai-methods)  
